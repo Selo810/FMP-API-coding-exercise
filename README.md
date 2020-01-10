@@ -1,4 +1,4 @@
-# coding_exercise
+# FMP-API-coding-exercise
 
 ## Project setup
 ```
